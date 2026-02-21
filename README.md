@@ -1,16 +1,25 @@
-## Hi there 👋
+# ¡Hola! Soy Laila Aguilar Vichido 👋
 
-<!--
-**LailaVichido/LailaVichido** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudiante de último semestre de **Ingeniería Biomédica** en la Universidad de Guanajuato. Me apasiona la intersección entre la **óptica**, el **procesamiento de imágenes** y la **inteligencia artificial** aplicada a la salud.
 
-Here are some ideas to get you started:
+## 🔬 Áreas de Investigación
+Actualmente me enfoco en:
+* **Caracterización Óptica:** Modelado de tejido cutáneo mediante algoritmos Inverse Adding-Doubling (IAD) y esferas integradoras.
+* **Visión Artificial Médica:** Desarrollo de algoritmos para la segmentación de células sanguíneas y patológicas en colaboración con instituciones como el IMSS y el CIO.
+* **Inteligencia Artificial:** Modelos de clasificación para detección de expresiones faciales y morfología fúngica.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tecnologías y Herramientas
+* **Lenguajes:** Python (OpenCV, Scikit-learn), MATLAB, C++.
+* **Hardware & Simulación:** LabVIEW, Proteus (Sistemas PID), Esferas Integradoras.
+* **Documentación:** LaTeX, Git.
+
+## 🎓 Educación y Logros
+* **Ingeniería Biomédica** - Universidad de Guanajuato (2022 - Presente).
+* **Ponente en CIFAB 2025** con el tema "Detección de tipos celulares en frotis sanguíneos".
+* **GitHub Student Developer Pack** - Aprovechando herramientas profesionales para el desarrollo de mi tesis.
+
+---
+📫 **¿Cómo contactarme?**
+* **Email:** ln.aguilarvichido@ugto.mx
+* **LinkedIn:** [Tu enlace aquí]
+* **Ubicación:** León, Guanajuato, México.

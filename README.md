@@ -21,5 +21,4 @@ Actualmente me enfoco en:
 ---
 📫 **¿Cómo contactarme?**
 * **Email:** ln.aguilarvichido@ugto.mx
-* **LinkedIn:** [Tu enlace aquí]
 * **Ubicación:** León, Guanajuato, México.

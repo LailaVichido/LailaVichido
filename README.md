@@ -13,12 +13,8 @@ Actualmente me enfoco en:
 * **Hardware & Simulación:** LabVIEW, Proteus (Sistemas PID), Esferas Integradoras.
 * **Documentación:** LaTeX, Git.
 
-## 🎓 Educación y Logros
-* **Ingeniería Biomédica** - Universidad de Guanajuato (2022 - Presente).
-* **Ponente en CIFAB 2025** con el tema "Detección de tipos celulares en frotis sanguíneos".
-* **GitHub Student Developer Pack** - Aprovechando herramientas profesionales para el desarrollo de mi tesis.
-
 ---
+
 📫 **¿Cómo contactarme?**
 * **Email:** ln.aguilarvichido@ugto.mx
 * **Ubicación:** León, Guanajuato, México.
